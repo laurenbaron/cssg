@@ -1,1 +1,1 @@
-# cssg
+# CS + Social Good's website for off campus housing
